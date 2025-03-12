@@ -20,4 +20,4 @@ Tech Stack:
 
 This project strengthened my skills in data analysis, business intelligence, and SQL-Python integration for real-world applications.
 
-Would love to connect with professionals in Data Analytics, E-commerce, and Business Intelligence! Let’s discuss insights and industry trends.
+Would love to connect with professionals in Data Analytics, E-commerce, and Business Intelligence!
